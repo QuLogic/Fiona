@@ -268,7 +268,7 @@ elif "clean" not in sys.argv:
 requirements = [
     'attrs>=17',
     'click>=4.0,<8',
-    'cligj>=0.5',
+    'cligj>=0.4',
     'click-plugins>=1.0',
     'six>=1.7',
     'munch']
